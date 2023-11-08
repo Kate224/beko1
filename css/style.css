@@ -10342,6 +10342,8 @@ $xs:  "(min-width: 480px)";*/
 @media (min-width: 1200px) {
   .zmyw-promo .kp ul {
     flex-wrap: nowrap;
+	 row-gap: 24px; 
+	column-gap: 100px;
   }
 }
 
